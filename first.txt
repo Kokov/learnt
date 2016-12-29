@@ -3,5 +3,9 @@ Git is free software.
 Git is excellent.
 test1
 branch dev
-master modify
+<<<<<<< HEAD
+modify
+=======
+modify
+>>>>>>> feature1
 
